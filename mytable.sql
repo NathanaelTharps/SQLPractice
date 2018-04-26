@@ -3,6 +3,6 @@
    INSERT INTO BOOKS_BIBLE (id, name, verse)
    
    VALUES 
-   (1, 'Gensis', 1)
-   (2, 'Exodus', 22)
-   (6, 'Deuteronomy', 32)
+   (1, 'Gensis', 1),
+   (2, 'Exodus', 22),
+   (6, 'Deuteronomy', 32);
